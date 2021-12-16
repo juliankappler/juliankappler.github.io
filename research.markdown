@@ -8,15 +8,13 @@ permalink: /research/
 
 ![](/assets/tubular_ensemble_illustration.png){:style="float: left; margin-right: 7px; margin-top: 7px;" ; width="400" }
 
-Any kind of diffusive dynamics is fully characterized by its path
-probabilities. The probability to observe a given individual trajectory
-is zero, so that one would not expect to ever observe a given trajectory
-in an experiment.
-
 Technically speaking, the probability to observe a given individual
 stochastic trajectory vanishes, much like the probability of a given
 number is zero for many continuous probability distributions such as
-e.g. the Gaussian distribution. To connect the discussion of path
+e.g. the Gaussian distribution. This makes it unclear how to measure
+path probabilities, because only events that occur with positive probability
+are accessible experimentally.
+To connect the discussion of path
 probabilities to measurement, we consider the tubular ensemble,
 comprised of all stochastic trajectories that remain within a tubular
 neighborhood of a given reference path. While in the limit of vanishing
