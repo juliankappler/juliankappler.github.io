@@ -5,4 +5,11 @@
 layout: default
 ---
 
-Hello
+Hello! My name is Julian. I am currently a postdoc at the [Department of
+Applied Mathematics and Theoretical Physics (DAMTP)](https://www.damtp.cam.ac.uk)
+at [Cambridge University](https://www.cam.ac.uk).
+Before, I did my PhD at the [Physics Department](https://www.physik.fu-berlin.de)
+at [Freie Universität Berlin](https://www.fu-berlin.de).
+
+My current research is mainly focused on stochastic processes, see
+[here]({{ site.baseurl }}{% link publications.html %}) for a list of publications.
