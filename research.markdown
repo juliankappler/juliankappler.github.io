@@ -4,15 +4,34 @@ title: Research
 permalink: /research/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+::: {.container}
+![](/assets/tubular_ensemble_illustration.png){.align-left}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Any kind of diffusive dynamics is fully characterized by its path
+probabilities. The probability to observe a given individual trajectory
+is zero, so that one would not expect to ever observe a given trajectory
+in a experiment.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Technically speaking, the probability to observe a given individual
+stochastic trajectory vanishes, much like the probability of a given
+number is zero for many continuous probability distributions such as
+e.g. the Gaussian distribution. To connect the discussion of path
+probabilities to measurement, we consider the tubular ensemble,
+comprised of all stochastic trajectories that remain within a tubular
+neighborhood of a given reference path. While in the limit of vanishing
+tube radius only the reference path remains in the tubular ensemble, for
+finite tube radius the probability to observe any of the trajectories of
+the tubular ensemble is positive. The tubular ensemble for
+small-but-finite radius is hence an experimentally accessible surrogate
+for probing any question that can be asked about paths for diffusive
+stochastic dynamics.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Key Publications:
+* "Experimental Measurement of Relative Path Probabilities and Stochastic Actions",
+  J. Gladrow, U. F. Keyser, R. Adhikari, J. Kappler,
+  *Physical Review X*, vol. 11, p. 031022, **2021**.
+  DOI: [10.1103/PhysRevX.11.031022](https://doi.org/10.1103/PhysRevX.11.031022)
+* "Stochastic action for tubes: Connecting path probabilities to
+    measurement", J. Kappler, R. Adhikari, *Physical Review Research*,
+    vol. 2, p. 023407, **2020**. DOI:
+    [10.1103/PhysRevResearch.2.023407](https://dx.doi.org/10.1103/PhysRevResearch.2.023407)
