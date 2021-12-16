@@ -28,14 +28,8 @@ for probing any question that can be asked about paths for diffusive
 stochastic dynamics.
 
 Related key publications:
-* "Experimental Measurement of Relative Path Probabilities and Stochastic Actions",
-  J. Gladrow, U. F. Keyser, R. Adhikari, J. Kappler,
-  *Physical Review X*, vol. 11, p. 031022, **2021**.
-  DOI: [10.1103/PhysRevX.11.031022](https://doi.org/10.1103/PhysRevX.11.031022)
-* "Stochastic action for tubes: Connecting path probabilities to
-    measurement", J. Kappler, R. Adhikari, *Physical Review Research*,
-    vol. 2, p. 023407, **2020**. DOI:
-    [10.1103/PhysRevResearch.2.023407](https://dx.doi.org/10.1103/PhysRevResearch.2.023407)
+* "Experimental Measurement of Relative Path Probabilities and Stochastic Actions", J. Gladrow, U. F. Keyser, R. Adhikari, J. Kappler, *Physical Review X*, vol. 11, p. 031022, **2021**. DOI: [10.1103/PhysRevX.11.031022](https://doi.org/10.1103/PhysRevX.11.031022)
+* "Stochastic action for tubes: Connecting path probabilities to measurement", J. Kappler, R. Adhikari, *Physical Review Research*, vol. 2, p. 023407, **2020**. DOI: [10.1103/PhysRevResearch.2.023407](https://dx.doi.org/10.1103/PhysRevResearch.2.023407)
 
 
 ### Waves at interfaces
@@ -54,13 +48,7 @@ found an intuitive explanation for the appearance of the fractional
 derivative in this context.
 
 Related Publications:
-* "Nonlinear fractional waves at elastic interfaces", J. Kappler, S.
-    Shrivastava, M. F. Schneider, and R. R. Netz, *Physical Review
-    Fluids*, vol. 2, p. 114804, **2017**. DOI:
-    [10.1103/PhysRevFluids.2.114804](https://dx.doi.org/10.1103/PhysRevFluids.2.114804)
-* "Multiple surface wave solutions on linear viscoelastic media", J.
-    Kappler and R. R. Netz, *Europhysics Letters*, vol. 112, p.
-    19002, **2015**. DOI:
-    [10.1209/0295-5075/112/19002](https://dx.doi.org/10.1209/0295-5075/112/19002)
+* "Nonlinear fractional waves at elastic interfaces", J. Kappler, S. Shrivastava, M. F. Schneider, and R. R. Netz, *Physical Review Fluids*, vol. 2, p. 114804, **2017**. DOI: [10.1103/PhysRevFluids.2.114804](https://dx.doi.org/10.1103/PhysRevFluids.2.114804)
+* "Multiple surface wave solutions on linear viscoelastic media", J. Kappler and R. R. Netz, *Europhysics Letters*, vol. 112, p. 19002, **2015**. DOI: [10.1209/0295-5075/112/19002](https://dx.doi.org/10.1209/0295-5075/112/19002)
 
  See also: [Fractional-wave-equation: Python module for the numerical solution of nonlinear fractional wave equations](https://github.com/juliankappler/fractional-wave-equation)
