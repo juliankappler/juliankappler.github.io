@@ -11,7 +11,7 @@ permalink: /research/
 Any kind of diffusive dynamics is fully characterized by its path
 probabilities. The probability to observe a given individual trajectory
 is zero, so that one would not expect to ever observe a given trajectory
-in a experiment.
+in an experiment.
 
 Technically speaking, the probability to observe a given individual
 stochastic trajectory vanishes, much like the probability of a given
