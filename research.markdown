@@ -4,8 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-::: {.container}
-![](/assets/tubular_ensemble_illustration.png){.align-left}
+## Path probabilities for diffusive stochastic dynamics
+
+![](/assets/tubular_ensemble_illustration.png){:style="float: left; margin-right: 7px; margin-top: 7px;" ; width="250" }
 
 Any kind of diffusive dynamics is fully characterized by its path
 probabilities. The probability to observe a given individual trajectory
