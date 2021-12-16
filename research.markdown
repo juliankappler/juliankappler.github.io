@@ -27,11 +27,9 @@ small-but-finite radius is hence an experimentally accessible surrogate
 for probing any question that can be asked about paths for diffusive
 stochastic dynamics.
 
-<font size="10">
 Related key publications:
 * "Experimental Measurement of Relative Path Probabilities and Stochastic Actions", J. Gladrow, U. F. Keyser, R. Adhikari, J. Kappler, *Physical Review X*, vol. 11, p. 031022, **2021**. DOI: [10.1103/PhysRevX.11.031022](https://doi.org/10.1103/PhysRevX.11.031022)
 * "Stochastic action for tubes: Connecting path probabilities to measurement", J. Kappler, R. Adhikari, *Physical Review Research*, vol. 2, p. 023407, **2020**. DOI: [10.1103/PhysRevResearch.2.023407](https://dx.doi.org/10.1103/PhysRevResearch.2.023407)
-</font>
 
 &nbsp;
 &nbsp;
