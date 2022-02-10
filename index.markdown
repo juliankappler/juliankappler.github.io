@@ -11,4 +11,4 @@ at [Cambridge University](https://www.cam.ac.uk).
 Before, I did my PhD at the [Physics Department](https://www.physik.fu-berlin.de/en/index.html)
 at [Freie Universität Berlin](https://www.fu-berlin.de/en/).
 
-My current research is focused on stochastic processes.
+My current research is focused on stochastic processes. In particular, I am currently interested in relating fundamental theoretical concepts to measurement, and in parametrizing stochastic models from data.
