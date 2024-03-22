@@ -26,8 +26,17 @@ for probing any question that can be asked about paths for diffusive
 stochastic dynamics.
 
 Related key publications:
-* "Experimental Measurement of Relative Path Probabilities and Stochastic Actions", J. Gladrow, U. F. Keyser, R. Adhikari, J. Kappler, *Physical Review X*, vol. 11, p. 031022, **2021**. DOI: [10.1103/PhysRevX.11.031022](https://doi.org/10.1103/PhysRevX.11.031022)
 * "Stochastic action for tubes: Connecting path probabilities to measurement", J. Kappler, R. Adhikari, *Physical Review Research*, vol. 2, p. 023407, **2020**. DOI: [10.1103/PhysRevResearch.2.023407](https://dx.doi.org/10.1103/PhysRevResearch.2.023407)
+* "Experimental Measurement of Relative Path Probabilities and Stochastic Actions", J. Gladrow, U. F. Keyser, R. Adhikari, J. Kappler, *Physical Review X*, vol. 11, p. 031022, **2021**. DOI: [10.1103/PhysRevX.11.031022](https://doi.org/10.1103/PhysRevX.11.031022)
+* "Experimental Measurement of Relative Path Probabilities and Stochastic Actions", J. Gladrow, U. F. Keyser, R. Adhikari, J. Kappler, *Physical Review X*, vol. 11, p. 031022, **2021**. DOI: [10.1103/PhysRevX.11.031022](https://doi.org/10.1103/PhysRevX.11.031022)
+* "Resolution dependence of most probable pathways with state-dependent diffusivity", A. L. Thorneywork, J. Gladrow, U. F. Keyser, M. E. Cates, R. Adhikari, J. Kappler. arXiv: [https://arxiv.org/abs/2402.01559](https://arxiv.org/abs/2402.01559)
+* "Sojourn probabilities in tubes and pathwise irreversibility for Itô processes", J. Kappler, M. E. Cates, R. Adhikari. arXiv: [https://arxiv.org/abs/2009.04250](https://arxiv.org/abs/2009.04250)
+
+Related Python modules:
+* [PyTubular: Python module for the evaluation of probability densities and exit rates in the tubular ensemble](https://github.com/juliankappler/PyTubular)
+* [Cloning algorithm for measuring rare events from stochastic time series](https://github.com/juliankappler/cloning_algorithm)
+* [Fokker-Planck: Python module for numerical solution, calculation of spectra, and parameter inference for the 1D Fokker-Planck equation](https://github.com/juliankappler/fokker-planck)
+
 
 &nbsp;
 &nbsp;
@@ -50,7 +59,8 @@ found an intuitive explanation for the appearance of the fractional
 derivative in this context.
 
 Related Publications:
-* "Nonlinear fractional waves at elastic interfaces", J. Kappler, S. Shrivastava, M. F. Schneider, and R. R. Netz, *Physical Review Fluids*, vol. 2, p. 114804, **2017**. DOI: [10.1103/PhysRevFluids.2.114804](https://dx.doi.org/10.1103/PhysRevFluids.2.114804)
 * "Multiple surface wave solutions on linear viscoelastic media", J. Kappler and R. R. Netz, *Europhysics Letters*, vol. 112, p. 19002, **2015**. DOI: [10.1209/0295-5075/112/19002](https://dx.doi.org/10.1209/0295-5075/112/19002)
+* "Nonlinear fractional waves at elastic interfaces", J. Kappler, S. Shrivastava, M. F. Schneider, and R. R. Netz, *Physical Review Fluids*, vol. 2, p. 114804, **2017**. DOI: [10.1103/PhysRevFluids.2.114804](https://dx.doi.org/10.1103/PhysRevFluids.2.114804)
+* "Linear waves at viscoelastic interfaces between viscoelastic media", S. Zendehroud, R. R. Netz, and J. Kappler, *Physical Review Fluids*, vol. 7 (11), p. 114801, **2022**. DOI: [10.1103/PhysRevFluids.7.114801](https://dx.doi.org/10.1103/PhysRevFluids.7.114801)
 
  See also: [Fractional-wave-equation: Python module for the numerical solution of nonlinear fractional wave equations](https://github.com/juliankappler/fractional-wave-equation)
